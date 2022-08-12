@@ -1,3 +1,7 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashuhappy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 
 <a href="https://github.com/kashuhappy/github-readme-stats">
